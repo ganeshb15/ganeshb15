@@ -2,65 +2,70 @@
 
 🎯 **Embedded Systems Engineer** | 🔧 **Control Systems & Signal Processing Enthusiast** | ⚡ **Automation Innovator**
 
-Welcome to my GitHub profile! I specialize in **Embedded C**, **Signal Processing**, **Control Systems**, and **Python Automation**. Below are some of the key projects I’ve worked on:
-
-### 🚀 Featured Projects
-
-#### 🔋 **Embedded Motor Control Systems**
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Embedded_Motor_Control-blue?style=for-the-badge)](https://github.com/yourusername/embedded-motor-control)
-
-Designed motor control logic for actuators like **EGF actuators** and **swirl flaps** from scratch using **Embedded C**. Implemented signal conditioning, fault detection, and control algorithms.
-
-**Tech Stack**: Embedded C, Simulink, TargetLink  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=embedded-motor-control&theme=dark)](https://github.com/yourusername/embedded-motor-control)
+Welcome to my GitHub profile! I specialize in **Embedded C**, **Signal Processing**, **Control Systems**, and **Python Automation**. Below is an overview of my key skills and knowledge areas.
 
 ---
 
-#### 🎧 **Audio Signal Processing**
-![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Audio_Signal_Processing-blue?style=for-the-badge)](https://github.com/yourusername/audio-signal-processing)
+## 🛠️ Skills & Expertise
 
-Developed Python-based audio processing algorithms for real-time noise reduction and signal analysis using **numpy**, **scipy**, and **OpenCV**.
-
-**Tech Stack**: Python, numpy, scipy, OpenCV  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=audio-signal-processing&theme=dark)](https://github.com/yourusername/audio-signal-processing)
-
----
-
-#### 📱 **Road Anomaly Detection Using Smartphone Data**
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[![GitHub Repo](https://img.shields.io/badge/Repository-Road_Anomaly_Detection-blue?style=for-the-badge)](https://github.com/yourusername/road-anomaly-detection)
-
-Created a system to detect road anomalies (potholes, bumps) using smartphone accelerometer data. Used **machine learning** for classification and real-time data analysis.
-
-**Tech Stack**: Python, Machine Learning  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=road-anomaly-detection&theme=dark)](https://github.com/yourusername/road-anomaly-detection)
-
----
-
-#### 🔄 **CI/CD Automation for Embedded Testing**
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[![GitHub Repo](https://img.shields.io/badge/Repository-CI_CD_Automation-blue?style=for-the-badge)](https://github.com/yourusername/ci-cd-automation)
-
-Automated **SIL testing** using a pipeline built with **Python**, **MATLAB**, and **Tessy**, enabling seamless testing and report generation.
-
-**Tech Stack**: Python, MATLAB, Travis CI  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ci-cd-automation&theme=dark)](https://github.com/yourusername/ci-cd-automation)
-
----
-
-### 💻 My Tech Stack
+### 💻 Programming & Scripting Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+### 🔧 Tools & Technologies
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TargetLink](https://img.shields.io/badge/TargetLink-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
-### 📫 Connect With Me!
+### 🚗 Embedded Systems
+- **Motor Control**: Developed logic for **EGF actuators**, **swirl flaps**, and exhaust systems using **Embedded C** and **Simulink**.
+- **Sensor Integration**: Worked on temperature, pressure, and oil level sensors for automotive applications, including calibration and fault detection.
+- **CAN Protocol**: Managed communication using **CAN bus** for control systems.
+- **Fault Handling**: Implemented fail-safe mechanisms and diagnostic trouble codes (DTC) in embedded systems.
+
+---
+
+### 🔄 Control Systems & Signal Processing
+- **PID Control**: Designed and implemented **PID controllers** for motor control and actuator systems.
+- **Signal Processing**: Experience with filtering, noise reduction, and signal conditioning for automotive sensors.
+- **Audio Processing**: Developed audio signal processing algorithms using **Python** and libraries like **OpenCV** for real-time analysis.
+
+---
+
+### ⚙️ CI/CD & Automation
+- **Automation Pipelines**: Automated **SIL testing** and report generation using **Python**, **MATLAB**, and **Travis CI**.
+- **Continuous Integration**: Set up **CI/CD workflows** for embedded systems development and testing, improving efficiency and reducing errors.
+
+---
+
+### 📊 Data Analysis & Machine Learning
+- **Road Anomaly Detection**: Built a system using smartphone accelerometer data to detect potholes and road anomalies. Applied machine learning for classification.
+- **Data Analysis**: Proficient in data manipulation and analysis using **pandas**, **numpy**, and **matplotlib** for both signal and system data.
+
+---
+
+### 🔍 Testing & Verification
+- **Static Code Analysis**: Conducted code analysis using tools like **Polyspace**, **PCLint**, and **MISRA-C** compliance for automotive-grade software.
+- **Model-in-the-Loop (MIL)** and **Software-in-the-Loop (SIL)** Testing: Extensive experience in **Simulink**, **Stateflow**, and custom test automation to verify embedded system models.
+
+---
+
+## 🌱 Currently Learning
+- **Machine Learning**: Expanding skills in **TensorFlow** and **YOLO** for real-time image and data processing.
+- **Advanced Embedded Systems**: Deepening expertise in **AUTOSAR** and advanced motor control techniques.
+- **ROS (Robot Operating System)**: Exploring **ROS** for autonomous vehicle sensor integration and control.
+
+---
+
+## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
