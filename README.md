@@ -7,7 +7,6 @@
 <!-- Card 1 -->
 <div align="center">
   <a href="https://ganeshb15.github.io/Portfolio/" style="text-decoration: none;">
-    <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=embedded-motor-control&theme=dark" />
     <h3>🔋 Embedded Motor Control Systems</h3>
   </a>
   <p>
