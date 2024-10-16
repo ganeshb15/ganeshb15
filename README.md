@@ -1,46 +1,10 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ganesh Bhagwat!
 
 🎯 **Embedded Systems Engineer** | 🔧 **Control Systems & Signal Processing Enthusiast** | ⚡ **Automation Innovator**
 
 ## 💻 Featured Projects
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshb15&show_icons=true&theme=radical)
 
-<!-- Card 1 -->
-<div align="center">
-  <a href="https://ganeshb15.github.io/Portfolio/" style="text-decoration: none;">
-    <h3>🔋 Embedded Motor Control Systems</h3>
-  </a>
-  <p>
-    Designed motor control logic for actuators using Embedded C, Simulink, and TargetLink.
-  </p>
-</div>
-
----
-
-<!-- Card 2 -->
-<div align="center">
-  <a href="https://github.com/yourusername/audio-signal-processing" style="text-decoration: none;">
-    <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=audio-signal-processing&theme=dark" />
-    <h3>🎧 Audio Signal Processing</h3>
-  </a>
-  <p>
-    Python-based audio processing algorithms for real-time noise reduction and signal analysis.
-  </p>
-</div>
-
----
-
-<!-- Card 3 -->
-<div align="center">
-  <a href="https://github.com/yourusername/road-anomaly-detection" style="text-decoration: none;">
-    <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=road-anomaly-detection&theme=dark" />
-    <h3>📱 Road Anomaly Detection</h3>
-  </a>
-  <p>
-    Smartphone-based system to detect road anomalies using accelerometer data and machine learning.
-  </p>
-</div>
-
----
 
 ## 🛠️ My Tech Stack
 <p align="center">
