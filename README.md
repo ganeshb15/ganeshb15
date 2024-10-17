@@ -1,6 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm [Your Name], a passionate **Embedded Systems Engineer** with experience in **control systems**, **signal processing**, and **automation**. My work spans across **C/C++ programming** for embedded systems, **Python scripting** for automation, and **MATLAB/Simulink** for model-based designs. I also have expertise in audio processing, sensor data analysis, and various real-time control system projects.
+Hello! I’m Ganesh Bhagwat, an Embedded Software Engineer with a keen interest in research and development in embedded systems and control solutions. Currently, I'm a graduate student at Nottingham University. I’ve worked in the automotive software industry in India and have several published papers, with more in progress.
+
+If you come across any projects in my repository that pique your interest or if you're considering modifications for a different research area, please feel free to reach out! I’m excited about opportunities to collaborate, teach, and learn from others.Let’s connect and explore how we can work together!
 
 ### 🔧 Core Skills:
 - **Embedded Systems**: C, Embedded C, ARM Cortex, Microcontrollers, RTOS, CAN, I2C, SPI.
@@ -46,10 +48,14 @@ Hello! I'm [Your Name], a passionate **Embedded Systems Engineer** with experien
 - [**MATLAB-Simulink-Tools**](https://github.com/yourusername/matlab-simulink-tools) - A collection of custom m-scripts for automating Simulink model testing and code generation.
 
 ---
-
-## 🔗 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Email](mailto:youremail@example.com)
-- [Personal Website/Portfolio](https://yourwebsite.com)
+# 📫 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=yourID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://orcid.org/yourID"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="https://pypi.org/user/yourusername"><img src="https://img.shields.io/badge/PyPI-3776AB?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github-pages&logoColor=white" /></a>
+</p>
 
 Thank you for visiting my profile! Feel free to explore the repositories, contribute, or get in touch for collaborations!
