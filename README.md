@@ -40,8 +40,6 @@ If you come across any projects in my repository that pique your interest or if 
 ### GitHub Stats
 <!-- For dark mode -->
 ![](https://raw.githubusercontent.com/ganeshb15/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-<!-- For light mode -->
-![](https://raw.githubusercontent.com/ganeshb15/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
 ---
