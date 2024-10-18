@@ -37,6 +37,13 @@ If you come across any projects in my repository that pique your interest or if 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+### GitHub Stats
+<!-- For dark mode -->
+![](https://raw.githubusercontent.com/ganeshb15/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- For light mode -->
+![](https://raw.githubusercontent.com/ganeshb15/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
 ---
 
 ## 🚀 Repositories to Explore
