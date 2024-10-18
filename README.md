@@ -17,9 +17,8 @@ If you come across any projects in my repository that pique your interest or if 
 ## 🛠️ Projects Overview:
 
 ### 1. **Embedded C Projects**
-   - **Custom Motor Controller**: Developed a motor control system for [use case], implemented PID control, and embedded C code from scratch for [platform].
-   - **Sensor Interfacing and Fault Detection**: Designed and implemented sensor signal conditioning, calibration, and fault detection logic for automotive applications.
-
+   - **Smart Home Automation**:This project focuses on enhancing security and safety in home automation. Utilizing an ESP32 microcontroller, Adafruit fingerprint sensor, RFID, relay modules, and various sensors like DHT11 and MQ2, the system integrates smart features for efficient control. The home automation solution includes a Raspberry Pi for processing, YOLO for object detection, and a custom WiFi library for communication between sensors and actuators. Stateflow logic is employed for device control, ensuring optimal switching based on temperature, humidity, and gas data, complemented by a user-friendly Python GUI interface.
+   - **BreadboardScript**: This project involves Logisim as a digital circuit simulation tool to create a template circuit design specification for high-level languages that can be implemented on breadboard logic. I custom-designed a programming language using Python and the PLY (Python Lex-Yacc) library, crafting my own high-level Arduino-like language. Additionally, I developed a compiler in Python that outputs a custom circuit diagram and the corresponding opcode to implement the final digital circuit on a breadboard.
 ### 2. **Python Automation**
    - **Automated Testing Tool (MiniReactis)**: Created an automated testing tool for Software-in-the-Loop (SIL) testing, generating detailed reports and improving test coverage using Python.
    - **Road Condition Monitoring**: Developed a road anomaly detection algorithm using smartphone accelerometer data to analyze driver behavior and road health.
@@ -43,9 +42,9 @@ If you come across any projects in my repository that pique your interest or if 
 ## 🚀 Repositories to Explore
 
 - [**Embedded-Motor-Control**](https://github.com/yourusername/embedded-motor-control) - A complete motor control system in Embedded C with PID.
-- [**Audio-Processing-Pipeline**](https://github.com/yourusername/audio-processing-pipeline) - Real-time audio processing algorithms for noise and echo reduction.
-- [**Python-Automation-Scripts**](https://github.com/yourusername/python-automation-scripts) - Various automation tools for testing, data processing, and CI/CD.
-- [**MATLAB-Simulink-Tools**](https://github.com/yourusername/matlab-simulink-tools) - A collection of custom m-scripts for automating Simulink model testing and code generation.
+- [**Audio-Processing-Pipeline**](https://github.com/ganeshb15/Audio) - Real-time audio processing algorithms for noise and echo reduction.
+- [**Python-Automation-Scripts**](https://github.com/ganeshb15/Tools) - Various automation tools for testing, data processing, and CI/CD.
+- [**MATLAB-Simulink-Tools**](https://github.com/ganeshb15/MATLAB-Collection) - A collection of custom m-scripts for automating Simulink model testing and code generation.
 
 ---
 # 📫 Let's Connect!
